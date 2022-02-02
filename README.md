@@ -4,7 +4,7 @@
 
 Here are some practical info about me :
 
-* I’m currently learning MySQL, Python, NLP, Machine Learning models from scratch, Web Scrapping tools (Selenium, Beautiful Soup) and keeping learning new things everday
+* I’m currently learning MySQL, Python, NLP, Machine Learning models from scratch, Web Scrapping tools, Statistics and keeping learning new things everday
 * How to reach me: emrekapusuz1997@gmail.com, [LinkedIn](https://www.linkedin.com/in/emrekapusuz/)
 
 #### About Me:
